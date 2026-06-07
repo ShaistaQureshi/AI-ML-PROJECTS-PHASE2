@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+bert_news_results/
+
+saved_bert_news_model/
+venv/
+bert_news_results/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
